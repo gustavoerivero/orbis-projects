@@ -24,7 +24,7 @@ links.forEach(function(link){
         // After a second, redirect to index.html
         setTimeout(function(){
             location.href = "/";
-            location.href = "/projects";
+            location.href = "/index.html";
         }, 600);
 
         return false;
