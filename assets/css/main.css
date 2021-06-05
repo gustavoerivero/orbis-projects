@@ -168,6 +168,7 @@ dd{
     padding: .3em;
     border-radius: 4px;
     margin-right: .2em;
+    display: inline-block;
 }
 
 .paragraph{
@@ -253,6 +254,10 @@ dd{
     
     .table td:nth-child(5){
         width: 4em;
+    }
+
+    .position{
+        margin-bottom: 0;
     }
 
 } 
