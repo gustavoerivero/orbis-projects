@@ -23,7 +23,8 @@ links.forEach(function(link){
 
         // After a second, redirect to index.html
         setTimeout(function(){
-            location.href = "/orbis-projects/";
+            location.href = "/";
+            location.href = "/projects";
         }, 600);
 
         return false;
