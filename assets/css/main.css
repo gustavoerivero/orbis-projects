@@ -87,7 +87,7 @@ dd{
     box-shadow: 0 3px 7px rgba(0, 0, 0, 0.16), 0 3px 7px rgba(0, 0, 0, 0.23);
     border-radius: 4px;
     position: relative;
-    overflow-y: scroll;
+    overflow-y: auto;
     overflow-x: hidden;
 }
 
