@@ -217,6 +217,7 @@ dd{
     .content{
         width: 93%;
         height: 92%;
+        overflow: auto;
     }
 
     .table th{
